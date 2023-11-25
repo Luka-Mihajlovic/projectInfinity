@@ -1,0 +1,18 @@
+Oklopne rukavice
+Metalne rukavice koje pripadaju oklopu. Nije dobro oruzje ali je bolje od niceg.
+
+0	
+1	
+1	
+
+1	
+1	
+20	
+0	
+0	
+0	
+
+3
+1
+
+32

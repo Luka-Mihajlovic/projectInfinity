@@ -1,0 +1,18 @@
+Dvorucni mac
+Ogromni ratni mac predvidjen za koriscenje sa dve ruke.
+
+0
+1
+1
+
+5
+0
+-20
+-10
+-3
+0
+
+3
+1
+
+5

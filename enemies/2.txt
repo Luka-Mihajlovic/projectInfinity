@@ -1,0 +1,11 @@
+Vukodlak
+
+15
+
+3
+0
+85
+20
+6
+
+backgrounds/battleBG/wolf_dungeon_fight.txt

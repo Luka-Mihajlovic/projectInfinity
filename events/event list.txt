@@ -1,0 +1,261 @@
+id 1 = Zamka!
+opcije: 1 - nastavi
+
+ishod 1:
+75% -[1 - 3]hp
+25% nista
+perks: brzi refleksi(9), oko sokolovo(12)
+brzi refleksi: 100% nista
+oko sokolovo: 100% nista
+
+---
+
+id 2 = Stara biblioteka
+opcije: 1 - gledaj po policama | 2 - procitaj knjigu na stolu | 3 - nista
+
+ishod 1:
+33% nista
+33% -3hp
+33% loot: misteriozni svitak
+perks: poznavanje magije(7)
+poznavanje magije: 75% loot: misteriozni svitak, 25% loot: ukleti svitak
+
+ishod 2:
+80% nista
+10% +5xp
+10% stat increase: atk 
+
+ishod 3:
+100% nista
+
+---
+
+id 3 = Kovceg
+opcije: 1 - otvori | 2 - nista
+
+ishod 1:
+75% loot from pool
+25% -2hp
+perks: oko sokolovo(12)
+oko sokolovo: 75% loot from pool, 25% nista
+
+ishod 2:
+100% nista
+
+---
+
+id 4 = Mrtav ratnik
+opcije: 1 - zapleni | 2 - nista
+
+ishod 1:
+100% start combat: skeleton
+
+ishod 2:
+100% nista
+
+---
+
+id 5 = Pecurke na podu
+opcije: 1 - prikupi | 2 - pojedi | 3 - nista
+
+ishod 1:
+75% nista
+25% loot: lekovito bilje
+perks: farmakologija(14)
+farmakologija: 100% loot: lekovito bilje
+
+ishod 2:
+50% +2hp
+50% -2hp
+perks: poznavanje medicine(10)
+poznavanje medicine: 50% +2hp, 50% nista
+
+ishod 3:
+100% nista
+
+---
+
+id 6 = Zaboravljen ranac
+opcije: 1 - otvori | 2 - nista
+
+ishod 1:
+50% loot from pool
+50% nista
+
+ishod 2:
+100% nista
+
+---
+
+id 7 = Mac u kamenu
+opcije: 1 - uzmi | 2 - nista
+
+ishod 1:
+75% loot: slomljeni mac
+25% nista
+
+ishod 2:
+100% nista
+
+---
+
+id 8 = Vitrina sa napitcima
+opcije: 1 - probaj da otvoris | 2 - slomi | 3 - nista
+
+ishod 1:
+50% loot: napitak snage / napitak zivota / napitak iskustva
+50% -4hp
+
+ishod 2:
+75% nista
+25% loot: napitak snage / napitak zivota / napitak iskustva
+
+ishod 3:
+100% nista
+
+---
+
+id 9 = Umor
+opcije: 1 - nastavi
+
+ishod 1:
+100% -1hp
+perks: regeneracija(19)
+regeneracija: 100% +1hp
+
+---
+
+id 10 = Bure baruta
+opcijea: 1 - pokupi barut | 2 - nista
+
+ishod 1:
+90% loot: eksploziv
+10% -5hp
+
+ishod 2:
+100% nista
+
+---
+
+id 11 = Zatvorenik
+opcije: 1 - slomi katanac | 2 - previj mu rane | 3 - nista
+
+ishod 1:
+25% nista
+50% loot from pool
+25% start combat: vukodlak
+
+ishod 2:
+100% +3xp
+
+ishod 3:
+100% nista
+
+---
+
+id 12 = Kultni obred
+opcije: 1 - uzmi lobanju | 2 - poznavanje magije=>prostudiraj simbole | 3 - nista
+
+ishod 1:
+50% -3hp
+50% loot: lobanja
+
+ishod 2:
+100% nista
+
+ishod 3:
+100% +5xp
+
+---
+
+id 13 = Bezbedna prostorija
+opcije: 1 - odmarajte se | 2 - nista
+
+ishod 1:
+100% +[2 - 4]hp
+
+ishod 2:
+100% nista
+
+---
+
+id 14 = Misteriozna rana
+opcije: 1 - nastavi
+
+ishod 1:
+75% -2 hp
+25% -1 maxhp
+perks: poznavanje medicine(10), regeneracija(19) => 100% nista
+
+---
+
+id 15 = Paranoja
+opcije: 1 - nastavi | camoflauge -> sakrijte se
+
+ishod 1:
+25% - start combat: random
+75% - nista
+
+ishod 2:
+100% - nista
+
+---
+
+id 16 = Svitak na zidu
+opcije: 1 - procitaj | 2 - nista
+
+ishod 1:
+100% use scroll
+
+ishod 2:
+100% nista
+
+---
+
+id 17 = Ukleti svitak na zidu
+opcije: 1 - procitaj | 2 - nista
+
+ishod 1:
+100% use scroll
+
+ishod 2:
+100% nista
+
+---
+
+id 18 = Ratnik na samrti
+opcije: 1 - popricaj | 2 - probajte da spasete | 3 - nista
+
+ishod 1:
+100% +[1 - 5]xp
+
+ishod 2:
+perks: poznavanje medicine(10) => 100% +5xp
+
+ishod 3:
+100% nista
+
+---
+
+id 19 = Stari oklop
+opcije: 1 - uzmi | 2 - pogledaj | 3 - nista
+
+ishod 1:
+100% loot: stari oklop
+
+ishod 2:
+100% +[1 - 5]xp
+
+ishod 3:
+100% nista
+
+---
+
+id 20 = lost
+opcije: 1 - hodnik/stepenice/pocetna soba | 2 - dogadjaj | 3 - borba
+ishod: tacno = nista, netacno = -5xp
+
+---
+
+
+

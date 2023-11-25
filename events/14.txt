@@ -1,0 +1,7 @@
+Cudna rana
+Primetili ste cudnu ranu na vasem telu. 
+Nemate predstave odakle je, ali nije blaga.
+3
+Zavrsite dogadjaj
+[Poznavanje medicine] - Previjte ranu
+[Regeneracija] - 'Ma to je samo ogrebotina'

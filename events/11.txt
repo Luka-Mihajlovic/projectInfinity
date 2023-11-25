@@ -1,0 +1,7 @@
+Zatvorenik
+Sa jedne strane ove prostorije se nalazi celija nalik onima u zatvoru. 
+"Molim Vas, izbavite me odavde pre nego sto se vrate!", ranjeni zatvorenik uplaseno dovikuje.
+3
+Slomite katanac
+[Poznavanje medicine] - Previjte mu rane
+Nista

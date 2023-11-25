@@ -1,0 +1,11 @@
+enemy name
+
+maxhp
+
+atk
+def
+agi
+dex
+spd
+
+image
