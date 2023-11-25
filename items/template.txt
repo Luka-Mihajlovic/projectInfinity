@@ -1,0 +1,18 @@
+item name	
+item desc	
+
+hp boost	
+xp mult	
+healing mult	
+
+atk boost	
+def boost	
+agi boost (%)	
+dex boost (%)	
+spd boost	
+luck boost
+
+equip slot (ABC - HEAD TORSO WEAP)
+is equipment? (1 = true 0 = nah)
+
+id

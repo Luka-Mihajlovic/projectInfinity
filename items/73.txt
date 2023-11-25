@@ -1,0 +1,18 @@
+Eksploziv
+Mala vaza koja sadrzi eksplozivno smesu. [-5 ENEMY HP]
+
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+
+73

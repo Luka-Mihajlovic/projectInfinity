@@ -1,0 +1,78 @@
+x = floor 1 enemy pool, xx = floor 2 pool, xxx = floor 3 pool
+o = loot pool (f1,f2), oo = loot pool(f3)
+
+0 - ???
+1 - rdjavi mac 			x
+2 - stari slem 			x
+3 - stari oklop 		x
+4 - gvozdeni mac 		x, xx
+5 - dvorucni mac 		xx, o
+6 - kratki mac 			x
+7 - bodez 			x
+8 - zlatni bodez 		xx, o
+9 - ukleti bodez 		xxx, oo
+10 - slomljen mac 		x, xx, xxx, o ,oo
+11 - drveni stit 		x
+12 - metalni stit 		xx
+13 - toranj stit 		xxx, oo
+14 - koplje 			x
+15 - rdjava sablja 		x
+16 - sablja 			xx, o
+17 - srebrni mac 		xx, o
+18 - srebrni bodez 		xx, o
+19 - srebrni stit 		xx, o
+20 - jutarnja zvezda 		xx, xxx
+21 - buzdovan 			xx
+22 - simitar 			xx
+23 - trozubac 			xxx, oo
+24 - srp 			x
+25 - gvozdeni oklop 		x
+26 - ojacan oklop 		xx, o
+27 - kozna tunika 		x
+28 - veriznjaca 		xx, o
+29 - krljust oklop 		xxx
+30 - gvozdeni krljust oklop 	xxx, oo
+31 - plast 			x
+32 - oklopne rukavice 		x
+33 - zlatni oklop 		xx
+34 - uklet oklop 		xxx, oo
+35 - oklop vitalnosti 		xx, xxx, o
+36 - bodljikav oklop 		xx
+37 - misticno odelo 		x, xx, o
+38 - bronzani oklop 		x
+39 - pun oklop 			xx
+40 - ojacan pun oklop 		xxx, oo
+41 - uklet ogrtac 		xxx, oo
+42 - mracni ogrtac 		xx, xxx
+43 - bodljikav pun oklop 	xxx
+44 - besan ogrtac 		xx, xxx
+45 - zeleni plast 		x, o
+46 - bronzan slem 		x
+47 - gvozden slem 		x
+48 - zlatni slem 		xx
+49 - veo 			x
+50 - uklet veo 			xxx, oo
+51 - uklet slem 		xx, xxx, oo
+52 - slem sa rogovima 		x, xx
+53 - kapuljaca 			xx
+54 - slem vitalnosti 		xx, xxx
+55 - venac brzine 		x, xx
+56 - lobanja 			x, xx
+57 - maska senki 		xx
+58 - kozna kapa 		x
+59 - ojacan slem 		xxx
+60 - misticna kapa 		x, xx, o
+61 - mistican stap 		x, xx, o
+
+62 - ampula zivota 		x
+63 - ampula snage 		x
+64 - napitak zivota 		xx, xxx, o, oo
+65 - napitak mudrosti 		xx, xxx, o
+66 - napitak snage 		xx, o, oo
+67 - lekovito bilje 		x, o
+68 - misteriozni svitak 	x, o
+69 - ukleti svitak 		xx, xxx, o, oo
+70 - uputstva za borbu 		xxx, o
+71 - medicinski svitak 		xxx, o
+72 - dimna bomba 		x, xx
+73 - eksploziv 			x, xx, xxx, o 
