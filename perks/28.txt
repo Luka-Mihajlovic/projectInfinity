@@ -1,0 +1,2 @@
+Nemilosrdni udarci
++3 ATK, -50 AGI

@@ -1,0 +1,2 @@
+Vampirizam
+-10 MAX HP, svaki napad ima 33% sansu da povrati +1 HP.

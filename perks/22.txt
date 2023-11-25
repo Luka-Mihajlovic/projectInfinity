@@ -1,0 +1,2 @@
+Stakleni top
+x2 ATK, DEF = 0

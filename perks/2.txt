@@ -1,0 +1,2 @@
+Nezaustavljiv napad
+Napadi daju +1 ATK i -1 DEF sve dok neprijatelj prima DMG

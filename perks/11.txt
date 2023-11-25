@@ -1,0 +1,2 @@
+Kontra udarac
+Posle primanja DMG sledeci napad ima +1 DMG

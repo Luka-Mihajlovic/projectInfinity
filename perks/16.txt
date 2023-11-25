@@ -1,0 +1,2 @@
+Borbeno iskustvo
++1 ATK, +1 DEF, +1 SPD, +5 AGI, +5 DEX

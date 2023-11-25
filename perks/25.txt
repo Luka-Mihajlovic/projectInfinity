@@ -1,0 +1,2 @@
+Probijanje
+CRIT udarci zaobilaze neprijateljski DEF posle proracuna

@@ -1,0 +1,2 @@
+Adrenalin
+Na svakih 5 HP ispod MAX HP dobijate +1 ATK, do maksimuma od +2 ATK

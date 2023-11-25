@@ -1,0 +1,2 @@
+Smirenost
+-2 ATK, -5 SPD, +25 DEX

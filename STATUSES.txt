@@ -1,0 +1,62 @@
+id: 1 - odbrambeni stav BUFF
+effects:
++2def -1atk
+
+id: 2 - izbegavanje BUFF
+effects:
++15dex
+
+id: 3 - first aid cd DEBUFF
+effects:
+cant use first aid 
+-2spd
+
+id: 4 - ciljanje BUFF
+effects:
++20agi
+
+id: 5 - spremno oruzje BUFF
+effects:
++2atk
+
+id: 6 - plan ahead BUFF
+effects:
++5spd
+
+id: 7 - running cooldown
+effects:
+cant run
+
+id: 8 - steroids
+effects:
++1all
+
+id: 9 - smoke bomb
+effects:
++30dex
++5spd
+100% run chance
+
+id: 10 - wind up
+effects:
+next attack is heavy attack
+
+id: 11 - disarmed
+effects:
+-2 atk
+
+id: 12 - HIDDEN - pile
+effects:
+enemy cant be hit
+
+id: 13 - vulnerable
+effects:
+-2def
+
+id: 14 - slowed
+effects:
+-3spd
+
+id: 15 - bleed
+effects:
+-1hp a turn

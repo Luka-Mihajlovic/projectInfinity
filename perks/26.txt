@@ -1,0 +1,2 @@
+Moment
++/- DMG zaviseci od razlike u brzini neprijatelja i vas, do +-2 ATK

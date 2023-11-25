@@ -1,0 +1,2 @@
+Ahilova peta
++2 DEF, primljeni CRIT udarci probijaju DEF i rade dvostruk DMG
